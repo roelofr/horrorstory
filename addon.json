@@ -1,0 +1,13 @@
+{
+	"title"		:	"Horror Story",
+	"type"		:	"Gamemode",
+	"tags"		:	[ "Fun", "Realism" ],
+	"ignore"	:
+	[
+		"*.psd",
+		"*.vcproj",
+		"*.svn*",
+		"*.git*",
+		"*.bat*"
+	]
+}

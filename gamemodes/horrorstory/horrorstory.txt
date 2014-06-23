@@ -1,0 +1,8 @@
+"Gamemode"
+{
+	"base"			"base"
+	"title"			"Horror Story"
+	"menusystem"	"1"
+	"workshopid"	"124828021"
+	"maps"			"^death_of_the_dream|gm_hellsresort|nightmansion|nightmansion2|scary_united_coop|gm_nightmare_church_rc3|sm_nightville_complete_v2|gm_deathhouse|gm_hellsprison|oneordinarynightmare|ineluctable_ordeal"
+}
