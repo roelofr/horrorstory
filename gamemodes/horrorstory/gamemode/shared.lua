@@ -36,6 +36,7 @@ function GM:GetOfficialMaps()
 		"nightmansion2",
 		"scary_united_coop",
 		"gm_nightmare_church_rc3",
+		"gm_nightmare_church",
 		"sm_nightville_complete_v2",
 		"gm_deathhouse",
 		"gm_hellsprison",
