@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/weapons/cof/lantern/lamp_fullbright"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.3 .5 .6]"
+	"$additive" "1"
+}

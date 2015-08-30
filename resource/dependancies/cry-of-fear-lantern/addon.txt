@@ -1,0 +1,7 @@
+// Extracted with MulleDK19's GMAD Extractor
+"AddonInfo"
+{
+	"name" "Cry of Fear Lantern"
+	"author_name" "Unknown"
+	"info" "Another ported weapon! However... This isnt a "weapon" its the lantern seen in Cry of Fear! Yes i decided to create this because i thought that all the other weapons that emits light didnt fit dark atmospheres too well...  Primary = Drop lantern (can be picked up again and shines light the same way) Secondary = Punch  KNOWN BUGS: ----------------------------------------------------- If you play in singleplayer the sprint animations might not work (May be fixed now!) --- Some playermodels like breen will have a broken world model (Atleast i think so) -----------------------------------------------------  Todo list: -Add breathe sounds"
+}
