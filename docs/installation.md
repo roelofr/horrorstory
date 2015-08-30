@@ -41,5 +41,5 @@ updates. You may also choose to checkout the *stable* branch for less frequent
 updates (which is essentially the same as using the Workshop, but without the
 Workshop)
 
-    [steam]: http://steamcommunity.com/sharedfiles/filedetails/?id=124828021
-    [wiki]: http://wiki.garrysmod.com/page/Workshop_for_Dedicated_Servers
+[steam]: http://steamcommunity.com/sharedfiles/filedetails/?id=124828021
+[wiki]: http://wiki.garrysmod.com/page/Workshop_for_Dedicated_Servers
